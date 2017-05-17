@@ -4,4 +4,4 @@
  
  ### Example of Generated Face after only ONE epoch:
  
- ![Alt text](data_projects/face_generation_DCGAN/generated_face.png "Optional Title")
+ ![Alt text](generated_face.png "Optional Title")
